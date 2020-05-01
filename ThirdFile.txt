@@ -1,1 +1,3 @@
 Text added in third file
+
+Adding new content after committing initial changes
